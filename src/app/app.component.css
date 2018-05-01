@@ -1,0 +1,8 @@
+.form {
+  background-color: lightcyan;
+  width: 80%;
+  height: 270px;
+}
+.form button {
+  margin-bottom: 30px;
+}
